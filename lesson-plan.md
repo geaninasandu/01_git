@@ -2,14 +2,14 @@
 
 ## General information
 
-**Duration**: 3 hours (max 1 hour theory)
+**Duration**: 3 hours (1h theory, 2h practic)
 
-**Primary teacher**: <>
+**Primary teacher**: 
 
-**Secondary teacher**: <>
+**Secondary teacher**: 
 
 ## Goal
-At the end of the lesson the student should 
+At the end of the lesson the student should:
 - be able to do basic file processing (grep, tail etc.)
 - be able to do process management
 - know how to use a pipe for output redirection
@@ -20,7 +20,7 @@ At the end of the lesson the student should
 - know how to pull latest changes from a repository
 - know how to push changes on a branch
 - understand why git is useful in project management
-    
+
 ## Resources required/used
 Example:
 - Azure virtual machines;
